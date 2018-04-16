@@ -1,6 +1,6 @@
 # Continuous Integration Build Environment for Embedded ARM Devices
 
-Includes the necessary tools to cross-compile code for ARM Cortex-M0/1/3/4 devices.
+Includes the necessary tools to cross-compile code for ARM Cortex-M0/1/3/4 && TI CC25** devices.
 
 Anticipation is to use with *gitlab-ci-multi-runner* (and similar) continuous integration build environment.
 
@@ -32,4 +32,4 @@ This will create a runner on GitLab with the specified docker image.
 
 ## Reference
 
-* [GitLab: Using Docker Images](http://doc.gitlab.com/ci/docker/using_docker_images.html)
+* [GitLab Doc](https://docs.gitlab.com/)
